@@ -1,0 +1,4 @@
+gtts
+elevenlabs
+google-cloud-texttospeech
+python-dotenv
